@@ -1,4 +1,4 @@
-package com.agoda.interview.filedownloader.controller;
+package com.file.downloader;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
