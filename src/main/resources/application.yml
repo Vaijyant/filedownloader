@@ -1,0 +1,9 @@
+application:
+  baseUrl: /api/agooda
+
+server:
+  port: 8050
+
+spring:
+  application:
+    name: filedownloader
